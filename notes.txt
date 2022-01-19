@@ -1,0 +1,10 @@
+why use typescript 
+    - type of variables are not defined in js
+    - types are evaluated at runtime
+    - such errors could cause problem and are hard to find
+
+use of tsnode
+    - it runs the code without pre compiling everything
+    
+
+
